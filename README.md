@@ -1,6 +1,6 @@
-# BechDo - Your Local Secondhand Marketplace
+<img src="https://github.com/000vishalsharma000/beginner_python_assignments/assets/132067848/88906280-b84f-435f-a0d0-758b110cd189" alt="Screenshot 1" width="200"  />
 
-![BechDo Logo](https://github.com/000vishalsharma000/beginner_python_assignments/assets/132067848/88906280-b84f-435f-a0d0-758b110cd189)
+# BechDo - Your Local Secondhand Marketplace
 
 BechDo is a mobile application that serves as a local secondhand marketplace, allowing users to buy and sell items they no longer need within their local community. Whether you're looking to declutter your home or find great deals on pre-loved items, BechDo is the go-to platform for local buying and selling.
 
@@ -14,21 +14,23 @@ BechDo is a mobile application that serves as a local secondhand marketplace, al
 
 ## Screenshots and Video Demo
 
-![Screenshot_2023-07-18-19-01-59-78_f73b71075b1de7323614b647fe394240](https://github.com/000vishalsharma000/beginner_python_assignments/assets/132067848/cef01623-39fd-45ef-a735-fdb42c6dab65)
-![Screenshot_2023-07-18-19-02-16-84_f73b71075b1de7323614b647fe394240](https://github.com/000vishalsharma000/beginner_python_assignments/assets/132067848/f6a2fdae-60d6-4e7b-ada6-6fea4b2eb115)
-![Screenshot_2023-07-18-19-02-22-75_f73b71075b1de7323614b647fe394240](https://github.com/000vishalsharma000/beginner_python_assignments/assets/132067848/fc7e1950-0d2e-45da-8b8f-59e97a3bfc47)
-![Screenshot_2023-07-18-19-02-28-44_f73b71075b1de7323614b647fe394240](https://github.com/000vishalsharma000/beginner_python_assignments/assets/132067848/340591f1-1d7e-4595-8d64-e41bc40657ff)
-![Screenshot_2023-07-18-19-02-36-85_f73b71075b1de7323614b647fe394240](https://github.com/000vishalsharma000/beginner_python_assignments/assets/132067848/12c8f03c-139e-40c7-a462-4613f9dfb789)
-![Screenshot_2023-07-18-19-00-05-65_f73b71075b1de7323614b647fe394240](https://github.com/000vishalsharma000/beginner_python_assignments/assets/132067848/b097effd-adca-4a56-934d-09e8c6c79ebf)
-![Screenshot_2023-07-18-19-01-51-44_f73b71075b1de7323614b647fe394240](https://github.com/000vishalsharma000/beginner_python_assignments/assets/132067848/4f8b68d4-f019-410f-a695-2e00a3165ebd)
+<div>
+  <img src="https://github.com/000vishalsharma000/beginner_python_assignments/assets/132067848/cef01623-39fd-45ef-a735-fdb42c6dab65" alt="Screenshot 1" width="200" />
+  <img src="https://github.com/000vishalsharma000/beginner_python_assignments/assets/132067848/f6a2fdae-60d6-4e7b-ada6-6fea4b2eb115" alt="Screenshot 2" width="200" />
+  <img src="https://github.com/000vishalsharma000/beginner_python_assignments/assets/132067848/fc7e1950-0d2e-45da-8b8f-59e97a3bfc47" alt="Screenshot 3" width="200" />
+  <img src="https://github.com/000vishalsharma000/beginner_python_assignments/assets/132067848/340591f1-1d7e-4595-8d64-e41bc40657ff" alt="Screenshot 4" width="200" />
+  <img src="https://github.com/000vishalsharma000/beginner_python_assignments/assets/132067848/12c8f03c-139e-40c7-a462-4613f9dfb789" alt="Screenshot 5" width="200" />
+  <img src="https://github.com/000vishalsharma000/beginner_python_assignments/assets/132067848/b097effd-adca-4a56-934d-09e8c6c79ebf" alt="Screenshot 6" width="200" />
+  <img src="https://github.com/000vishalsharma000/beginner_python_assignments/assets/132067848/4f8b68d4-f019-410f-a695-2e00a3165ebd" alt="Screenshot 7" width="200" />
+</div>
 
-[Link to Video Demo](link_to_video_demo)
+[Link to Video Demo](https://drive.google.com/file/d/1_n87H049WorQUn79_-nMiqUsiH7y-U6C/view?usp=sharing)
 
 ## Get BechDo on Expo
 
 You can try out BechDo by installing it on your iOS or Android device using Expo Go.
 
-[![Get it on Expo]()](https://expo.dev/@vishalsharma0000/bechDo?serviceType=classic&distribution=expo-go&release-channel=staging)
+[Get it on expo <img src="https://github.com/000vishalsharma000/beginner_python_assignments/assets/132067848/88906280-b84f-435f-a0d0-758b110cd189" alt="Screenshot 1" width="20"  />  ](https://expo.dev/@vishalsharma0000/bechDo?serviceType=classic&distribution=expo-go&release-channel=staging)
 
 ## Installation
 
