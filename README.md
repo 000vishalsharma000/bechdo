@@ -24,7 +24,7 @@ BechDo is a mobile application that serves as a local secondhand marketplace, al
   <img src="https://github.com/000vishalsharma000/beginner_python_assignments/assets/132067848/4f8b68d4-f019-410f-a695-2e00a3165ebd" alt="Screenshot 7" width="200" />
 </div>
 
-[Link to Video Demo](https://drive.google.com/file/d/1_n87H049WorQUn79_-nMiqUsiH7y-U6C/view?usp=sharing)
+[Link to Video Demo](https://drive.google.com/file/d/1XI2zZhPj42syZw3wcac25EmEVp_ZwFMD/view?usp=drivesdk)
 
 ## Get BechDo on Expo
 
